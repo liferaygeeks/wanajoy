@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="Heading1" type="text" index-type="keyword" instance-id="fgjg">
+		<dynamic-element name="Heading2" instance-id="cibv" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[heading 2]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Heading3" instance-id="likb" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[heading 3]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="RedirectToPage" instance-id="axqy" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[1@public@20143]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="BannerImage" instance-id="cyng" type="image" index-type="text">
+			<dynamic-content language-id="en_US" alt="" name="banner-1.jpg" title="banner-2.jpg" type="document" fileEntryId=""><![CDATA[$FILE=banner-1.jpg$]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Heading 1]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Heading1" type="text" index-type="keyword" instance-id="frqi">
+		<dynamic-element name="Heading2" instance-id="zjab" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[heading 5]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Heading3" instance-id="tbrb" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[heading 6]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="RedirectToPage" instance-id="mpxn" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[2@public@20143]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="BannerImage" instance-id="xjxw" type="image" index-type="text">
+			<dynamic-content language-id="en_US" alt="" name="banner-2.jpg" title="banner-2.jpg" type="document" fileEntryId=""><![CDATA[$FILE=banner-2.jpg$]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Heading 4]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Heading1" type="text" index-type="keyword" instance-id="sfnp">
+		<dynamic-element name="Heading2" instance-id="gobn" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Heading 8]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Heading3" instance-id="qzln" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Heading 9]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="RedirectToPage" instance-id="xvbp" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[3@public@20143]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="BannerImage" instance-id="idcd" type="image" index-type="text">
+			<dynamic-content language-id="en_US" alt="" name="banner-3.jpg" title="banner-3.jpg" type="document" fileEntryId=""><![CDATA[$banner-3.jpg$]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Heading 7]]></dynamic-content>
+	</dynamic-element>
+</root>

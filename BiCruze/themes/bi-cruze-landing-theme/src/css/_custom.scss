@@ -5,7 +5,6 @@
 
 /* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
 
-.tm-header-wrapper { margin-top: 65px !important; margin-bottom: 34px !important; }
 
 
 
@@ -13,3 +12,18 @@
 /* @import "bootstrap-datetimepicker.min"; */
 @import "flexslider";
 @import "templatemo-style";
+
+
+.tm-header-wrapper { margin-top: 65px !important; margin-bottom: 34px !important; }
+
+
+ .portlet-content {
+    background: none;
+    margin: 0;
+    border: 0;
+    padding: 0px;
+}
+
+ .portlet-title-text {
+    display: none;
+}
